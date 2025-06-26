@@ -1,17 +1,17 @@
 
-# 🍽️ Zomato Sales Analysis - Power BI Project
+#  Zomato Sales Analysis - Power BI Project
 
 This project analyzes Zomato's sales performance using an interactive Power BI dashboard. The insights derived help identify sales patterns, item performance, customer preferences, and opportunities for business optimization.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 A comprehensive Power BI report created using a Kaggle dataset to analyze the impact of various product and outlet features on sales metrics like total revenue, average sales, and customer ratings.
 
 ---
 
-## 🎯 Business Objective
+##  Business Objective
 
 To uncover valuable insights for Zomato’s decision-makers by tracking and analyzing:
 - Sales distribution across item types and outlet categories
@@ -21,7 +21,7 @@ To uncover valuable insights for Zomato’s decision-makers by tracking and anal
 
 ---
 
-## 📊 Key KPIs Tracked
+##  Key KPIs Tracked
 
 - **Total Sales**: Overall revenue from items sold
 - **Average Sales**: Revenue per transaction
@@ -30,7 +30,7 @@ To uncover valuable insights for Zomato’s decision-makers by tracking and anal
 
 ---
 
-## 📈 Dashboard Visuals & Charts
+##  Dashboard Visuals & Charts
 
 | Metric | Objective | Chart Type |
 |--------|-----------|------------|
@@ -44,7 +44,7 @@ To uncover valuable insights for Zomato’s decision-makers by tracking and anal
 
 ---
 
-## 🛠️ Tools & Features Used
+##  Tools & Features Used
 
 - **Power BI Desktop**
 - **Power Query Editor** (Data Cleaning)
@@ -53,7 +53,7 @@ To uncover valuable insights for Zomato’s decision-makers by tracking and anal
 
 ---
 
-## 🔄 Workflow Steps
+##  Workflow Steps
 
 1. Business Requirement Gathering
 2. Data Connection (Kaggle CSV)
@@ -64,7 +64,7 @@ To uncover valuable insights for Zomato’s decision-makers by tracking and anal
 
 ---
 
-## 💡 Sample Insights
+##  Sample Insights
 
 - Low fat content items have higher volume but lower avg. sales.
 - Medium-sized outlets outperform other sizes.
@@ -73,9 +73,9 @@ To uncover valuable insights for Zomato’s decision-makers by tracking and anal
 
 ---
 
-## 📸 Dashboard Preview
+##  Dashboard Preview
 
-### 🎯 KPI Overview
+###  KPI Overview
 ![KPI Screenshot](Screenshots/Kpi%20View.png)
 
 ### 📊 Full Dashboard
@@ -99,7 +99,7 @@ Zomato-Sales-Analysis/
 
 ---
 
-## 📎 Dataset
+##  Dataset
 
 - **Source**: Kaggle
 - **Format**: CSV
@@ -107,7 +107,7 @@ Zomato-Sales-Analysis/
 
 ---
 
-## 🙋‍♂️ Author
+##  Author
 
 **Ponvishnu S.**  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/ponvishnu02)  
