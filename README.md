@@ -78,12 +78,12 @@ To uncover valuable insights for Zomato’s decision-makers by tracking and anal
 ###  KPI Overview
 ![KPI Screenshot](Screenshots/Kpi%20View.png)
 
-### 📊 Full Dashboard
+###  Full Dashboard
 ![Dashboard Screenshot](Screenshots/Dashboard%20View.png)
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Zomato-Sales-Analysis/
@@ -115,6 +115,6 @@ Zomato-Sales-Analysis/
 
 ---
 
-## 📌 Note
+##  Note
 
 This project was created for learning and portfolio purposes. Zomato is a trademark of its respective owner, and this project is not affiliated with them.
