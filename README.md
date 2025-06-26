@@ -61,6 +61,7 @@ To uncover valuable insights for Zomato’s decision-makers by tracking and anal
 4. DAX Measure Creation
 5. Dashboard Layout & Development
 6. Formatting and Publishing
+
 ---
 
 ## 💡 Sample Insights
@@ -72,6 +73,16 @@ To uncover valuable insights for Zomato’s decision-makers by tracking and anal
 
 ---
 
+## 📸 Dashboard Preview
+
+### 🎯 KPI Overview
+![KPI Screenshot](Screenshots/Kpi%20View.png)
+
+### 📊 Full Dashboard
+![Dashboard Screenshot](Screenshots/Dashboard%20View.png)
+
+---
+
 ## 📂 Project Structure
 
 ```
@@ -79,8 +90,8 @@ Zomato-Sales-Analysis/
 ├── Dataset/
 │   └── zomato_sales_data.csv
 ├── Screenshots/
-│   ├── dashboard_view.png
-│   └── kpi_view.png
+│   ├── Dashboard View.png
+│   └── Kpi View.png
 ├── Zomato_Sales_Analysis.pbix
 ├── Zomato_Sales_Analysis_Report.pdf
 └── README.md
@@ -98,13 +109,12 @@ Zomato-Sales-Analysis/
 
 ## 🙋‍♂️ Author
 
-**Ponvishnu S.**   
-📧 [ponvishnus65@gmail.com]  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/ponvishnu02)
+**Ponvishnu S.**  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/ponvishnu02)  
+💻 [GitHub Profile](https://github.com/PONS774)
 
 ---
 
 ## 📌 Note
 
 This project was created for learning and portfolio purposes. Zomato is a trademark of its respective owner, and this project is not affiliated with them.
-
